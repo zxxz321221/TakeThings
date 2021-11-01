@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sdk_content_exit</key>
+	<string>%@ 下线了</string>
+	<key>sdk_content_logout</key>
+	<string>%@ 暂时离开了</string>
+	<key>sdk_content_disconn</key>
+	<string>%@ 断网或下线</string>
+	<key>sdk_content_toboss</key>
+	<string>客服人员暂时离开，系统正在为您转至总机接待，请稍等...</string>
+	<key>sdk_content_transfer_wait</key>
+	<string>由于客服没有及时接受此转接对话，马上会有别的客服人员来和您对话，请稍等...</string>
+	<key>sdk_content_dialog_wait</key>
+	<string>客服人员暂时离开，马上将会有其他的客服人员来接待您的对话，请稍等...</string>
+	<key>sdk_content_predialog</key>
+	<string>该访客重新打开了一个对话窗口，系统自动结束之前建立的对话</string>
+	<key>sdk_content_busy</key>
+	<string>您选择的客服人员现在暂时忙碌，请等待，稍后会有别的客服接通您的对话</string>
+	<key>sdk_content_leave</key>
+	<string>由于 %@ 暂时离开，此对话将自动分配给其他客服接待</string>
+	<key>sdk_content_accept</key>
+	<string>%@ 正在为您服务</string>
+	<key>sdk_content_precsid</key>
+	<string>此对话已直接分配给上次接待此客人的客服人员 %@</string>
+	<key>sdk_content_refuse</key>
+	<string>%@ 拒绝了本次对话</string>
+	<key>sdk_content_end</key>
+	<string>%@ 结束了本次对话</string>
+	<key>sdk_content_callon</key>
+	<string>%@ 快速邀请</string>
+	<key>sdk_content_invite_timeout</key>
+	<string>访客邀请超时</string>
+	<key>sdk_content_direct</key>
+	<string>%@ 直接对话</string>
+	<key>sdk_content_direct_accept</key>
+	<string>访客接受了 %@ 邀请的对话</string>
+	<key>sdk_content_transfer</key>
+	<string>%@ 转接对话给 %@</string>
+	<key>sdk_content_transfer_accept</key>
+	<string>%@ 接受了转接</string>
+	<key>sdk_content_transfer_refuse</key>
+	<string>%@ 拒绝了转接</string>
+	<key>sdk_content_transfer_comp</key>
+	<string>将访客转接给了公司[%@]</string>
+	<key>sdk_content_flitter_ctv</key>
+	<string>%@ 发了一个闪屏</string>
+	<key>sdk_content_filtter</key>
+	<string>发送了一个屏幕抖动</string>
+	<key>sdk_content_invite</key>
+	<string>接受了 %@ 快速邀请 </string>
+	<key>sdk_content_disinvite</key>
+	<string>拒绝了 %@ 快速邀请</string>
+	<key>sdk_content_closewin</key>
+	<string>该访客已关闭对话窗口</string>
+	<key>sdk_content_valuate</key>
+	<string>收到评价请求，{评价}</string>
+	<key>sdk_content_valuate_item</key>
+	<string>访客服务满意度评价：%@</string>
+	<key>sdk_content_valuate_desc</key>
+	<string>评价内容：%@</string>
+	<key>sdk_content_timeout</key>
+	<string>在%@分钟内没有发送或接收讯息,对话因超时已结束</string>
+	<key>sdk_content_group</key>
+	<string>访客手动选择了 %@</string>
+	<key>sdk_content_waiting</key>
+	<string>该访客请求了对话,正在等待客服应答</string>
+	<key>sdk_content_forcechat</key>
+	<string>%@发起了一个强制对话</string>
+	<key>sdk_content_valuate_success</key>
+	<string>你给出了评价：%@</string>
+	<key>sdk_content_endbyvi</key>
+	<string>访客结束了本次对话</string>
+	<key>sdk_content_wait</key>
+	<string>正在等待客服接入，您可以先简单描述所要咨询的问题，谢谢</string>
+	<key>sdk_content_end_black</key>
+	<string>【%@】把该客户加入黑名单，本次对话结束</string>
+	<key>sdk_content_dialogtimeout</key>
+	<string>客服人员暂时离开，系统正在为您转至总机接待，请稍等...</string>
+</dict>
+</plist>

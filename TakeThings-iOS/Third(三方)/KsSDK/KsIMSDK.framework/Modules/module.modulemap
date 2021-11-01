@@ -1,0 +1,6 @@
+framework module KsIMSDK {
+  umbrella header "KsIMSDK.h"
+
+  export *
+  module * { export * }
+}

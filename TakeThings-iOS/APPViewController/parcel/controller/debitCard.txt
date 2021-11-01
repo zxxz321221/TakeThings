@@ -1,0 +1,45 @@
+[{
+		"name_zh": "邮储银行",
+		"code": "PSBC"
+	},
+	{
+		"name_zh": "光大银行",
+		"code": "CEB"
+	},
+	{
+		"name_zh": "建设银行",
+		"code": "CCB"
+	},
+	{
+		"name_zh": "民生银行",
+		"code": "CMBC"
+	},
+	{
+		"name_zh": "广发银行",
+		"code": "GDB"
+	},
+	{
+		"name_zh": "中国银行",
+		"code": "BOC"
+	},
+	{
+		"name_zh": "平安银行",
+		"code": "SPAB"
+	},
+	{
+		"name_zh": "工商银行",
+		"code": "ICBC"
+	},
+	{
+		"name_zh": "中信银行",
+		"code": "CITIC"
+	},
+	{
+		"name_zh": "兴业银行",
+		"code": "CIB"
+	},
+	{
+		"name_zh": "浦发银行",
+		"code": "SPDB"
+	}
+]

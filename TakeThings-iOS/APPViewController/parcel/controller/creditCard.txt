@@ -1,0 +1,233 @@
+[{
+		"name_zh": "乌鲁木齐商业银行",
+		"code": "URMQCCB"
+	},
+	{
+		"name_zh": "承德银行",
+		"code": "CDB"
+	},
+	{
+		"name_zh": "广发银行",
+		"code": "GDB"
+	},
+	{
+		"name_zh": "江阴农村商业银行",
+		"code": "JRCB"
+	},
+	{
+		"name_zh": "顺德农村商业银行",
+		"code": "SDEB"
+	},
+	{
+		"name_zh": "浙江稠州商业银行",
+		"code": "CZCB"
+	},
+	{
+		"name_zh": "青海银行",
+		"code": "QHB"
+	},
+	{
+		"name_zh": "上海银行",
+		"code": "SHB"
+	},
+	{
+		"name_zh": "宁波银行",
+		"code": "NBB"
+	},
+	{
+		"name_zh": "上海农商银行",
+		"code": "SHRCB"
+	},
+	{
+		"name_zh": "包商银行",
+		"code": "BSB"
+	},
+	{
+		"name_zh": "贵阳银行",
+		"code": "GYB"
+	},
+	{
+		"name_zh": "重庆农村商业银行",
+		"code": "CRCB"
+	},
+	{
+		"name_zh": "吴江农村商业银行",
+		"code": "WJRCB"
+	},
+	{
+		"name_zh": "重庆银行",
+		"code": "CQB"
+	},
+	{
+		"name_zh": "徽商银行",
+		"code": "HSB"
+	},
+	{
+		"name_zh": "江苏常熟农村商业银行",
+		"code": "CSRCB"
+	},
+	{
+		"name_zh": "中国银行",
+		"code": "BOC"
+	}, 
+	{
+		"name_zh": "九江银行",
+		"code": "JJCCB"
+	},
+	{
+		"name_zh": "江苏银行",
+		"code": "JSB"
+	}, 
+	{
+		"name_zh": "平安银行",
+		"code": "SPAB"
+	},
+	{
+		"name_zh": "招商银行",
+		"code": "CMB"
+	},
+	{
+		"name_zh": "中信银行",
+		"code": "CITIC"
+	},
+	{
+		"name_zh": "兴业银行",
+		"code": "CIB"
+	},
+	{
+		"name_zh": "龙江银行",
+		"code": "DAQINGB"
+	},
+	{
+		"name_zh": "邮储银行",
+		"code": "PSBC"
+	},
+	{
+		"name_zh": "光大银行",
+		"code": "CEB"
+	},
+	{
+		"name_zh": "温州银行",
+		"code": "WZCB"
+	}, 
+	{
+		"name_zh": "南昌银行",
+		"code": "NCB"
+	},
+	{
+		"name_zh": "华夏银行",
+		"code": "HXB"
+	},
+	{
+		"name_zh": "民生银行",
+		"code": "CMBC"
+	},
+	{
+		"name_zh": "大连银行",
+		"code": "DLB"
+	},
+	{
+		"name_zh": "浦发银行",
+		"code": "SPDB"
+	},
+	{
+		"name_zh": "河北银行",
+		"code": "BHB"
+	}, 
+	{
+		"name_zh": "南京银行",
+		"code": "NJCB"
+	},
+	{
+		"name_zh": "浙江民泰商业银行",
+		"code": "MTBANK"
+	},
+	{
+		"name_zh": "鄞州银行",
+		"code": "YZB"
+	},
+	{
+		"name_zh": "农业银行",
+		"code": "ABC"
+	},
+	{
+		"name_zh": "锦州银行",
+		"code": "BOJZ"
+	},
+	{
+		"name_zh": "上饶银行",
+		"code": "SRB"
+	}, 
+	{
+		"name_zh": "台州银行",
+		"code": "TZCB"
+	},
+	{
+		"name_zh": "浙江泰隆商业银行",
+		"code": "ZJTLCB"
+	},
+	{
+		"name_zh": "东营市商业银行",
+		"code": "DYCCB"
+	},
+	{
+		"name_zh": "长沙银行",
+		"code": "CSCB"
+	},
+	{
+		"name_zh": "齐鲁银行",
+		"code": "QLBANK"
+	},
+	{
+		"name_zh": "无锡农村商业银行",
+		"code": "WRCB"
+	},
+	{
+		"name_zh": "杭州银行",
+		"code": "HZCB"
+	},
+	{
+		"name_zh": "潍坊银行",
+		"code": "WFCCB"
+	},
+	{
+		"name_zh": "哈尔滨银行",
+		"code": "HEBB"
+	},
+	{
+		"name_zh": "东亚银行",
+		"code": "BEA"
+	},
+	{
+		"name_zh": "成都农商银行",
+		"code": "CDRCB"
+	},
+	{
+		"name_zh": "建设银行",
+		"code": "CCB"
+	},
+	{
+		"name_zh": "广州银行",
+		"code": "GCB"
+	},
+	{
+		"name_zh": "鄂尔多斯银行",
+		"code": "ORBANK"
+	},
+	{
+		"name_zh": "兰州银行",
+		"code": "LZB"
+	},
+	{
+		"name_zh": "威海市商业银行",
+		"code": "WHSHB"
+	},
+	{
+		"name_zh": "工商银行",
+		"code": "ICBC"
+	},
+	{
+		"name_zh": "北京银行",
+		"code": "BJB"
+	}
+]
